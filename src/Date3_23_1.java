@@ -4,6 +4,6 @@ public class Date3_23_1 {
         double b = 0.1234567890123456789012345;
 
         System.out.printf("%30.25f \n", a);
-        System.out.printf("%30.25f \n", b);
+        System.out.printf("%30.25f \n", b); //
     }
 }
